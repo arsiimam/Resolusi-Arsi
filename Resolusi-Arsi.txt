@@ -1,0 +1,3 @@
+Resolusi Arsi
+1. Nyelesaiin belajar GitHub bulan ini
+2. Mulai belajar CodeIgniter
