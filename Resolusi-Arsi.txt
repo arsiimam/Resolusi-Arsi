@@ -1,3 +1,5 @@
 Resolusi Arsi
 1. Nyelesaiin belajar GitHub bulan ini
 2. Mulai belajar CodeIgniter
+3. Nyelesaiin belajar CodeIgniter
+4. Bikin Project yang banyak
