@@ -3,4 +3,4 @@ Resolusi Arsi
 2. Mulai belajar CodeIgniter
 3. Nyelesaiin belajar CodeIgniter
 4. Bikin Project yang banyak
-5. Makan makan
+
